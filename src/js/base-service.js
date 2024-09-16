@@ -1,4 +1,3 @@
-// this class must be abstract
 export default class BaseService {
   constructor(baseURL) { this._baseURL = baseURL; }
 
